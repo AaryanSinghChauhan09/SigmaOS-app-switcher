@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-app-switcher"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS app-switcher component - desktop"
+
+[lib]
+name = "app_switcher"
+path = "src/lib.rs"
