@@ -3,7 +3,7 @@ name = "SigmaOS-app-switcher"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "app-switcher component"
+description = "app switcher"
 upstream = []
 
 [contract]
